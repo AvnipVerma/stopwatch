@@ -1,0 +1,47 @@
+*{
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+#left{
+    height: 90px
+}
+
+#right{
+    height: 90px    
+}
+h1{
+    margin-top: 100px;
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+#seconds{
+    font-size: 30px;
+}
+#tens{
+    font-size: 30px;
+}
+#start{
+    padding: 30px;
+    margin-right: 20px;
+    font-size: 20px;
+    background-color: green;
+}
+#stop{
+    padding: 30px;
+    margin-right: 20px;
+    font-size: 20px;
+    background-color: red;
+}
+#reset{
+    padding: 30px;
+    margin-right: 20px;
+    font-size: 20px;
+    background-color: yellow;
+}
